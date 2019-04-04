@@ -1,7 +1,5 @@
 /*
 Suchwinder Singh
-CSCI 136
-Genady Maryash
 --
 --
 --
